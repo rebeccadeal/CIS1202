@@ -1,0 +1,14 @@
+151 Acorn
+500
+161 Acorn
+1500
+200 Main
+15000
+500 Arcade
+25000
+181 Acorn
+6000
+120 Xenia
+1000
+200 Acorn
+20000
